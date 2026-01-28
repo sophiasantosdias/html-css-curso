@@ -1,0 +1,19 @@
+body{
+    background-color: #2f2f2f;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 45px;
+}
+
+.img-index{
+    width: 250px;
+}
+
+.img-voltar{
+    width: 70px;
+    margin-top: 20px;
+}
